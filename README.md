@@ -137,7 +137,7 @@ Este proyecto se distribuye bajo la licencia **MIT** (archivo `LICENSE` incluido
 
 **Autor:** [DeepRatAI](https://github.com/DeepRatAI)
 **Correo:** [info@deeprat.tech](mailto:info@deeprat.tech)
-**LinkedIn:** ([https://twitter.com/DeepRatAI](https://www.linkedin.com/in/gonzalo-romero-b9b5b4355/))
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/gonzalo-romero-b9b5b4355/)
 
 ---
 
