@@ -1,5 +1,4 @@
 # 🩺 MedeX — AI-Powered Clinical Reasoning Assistant
-[![CI](https://github.com/DeepRatAI/Med-X-KimiK2-RAG/actions/workflows/tests.yml/badge.svg)](https://github.com/DeepRatAI/Med-X-KimiK2-RAG/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![HuggingFace Space](https://img.shields.io/badge/🧠_Demo-HuggingFace-yellow)](https://huggingface.co/spaces/DeepRat/Med-X_25.10.8)
 [![Python](https://img.shields.io/badge/python-3.10+-green)]()
