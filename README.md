@@ -13,6 +13,10 @@ Su propósito es educativo y de investigación, diseñado para explorar cómo la
 
 ---
 
+- [🧭 Roadmap de Desarrollo](docs/ROADMAP.md)
+
+---
+
 ## ⚠️ Disclaimer
 
 MedeX es un **prototipo educativo**, no un producto médico certificado.
