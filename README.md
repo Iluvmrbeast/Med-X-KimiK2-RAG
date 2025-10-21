@@ -11,6 +11,18 @@ Su propósito es educativo y de investigación, diseñado para explorar cómo la
 **Licencia:** MIT
 **Lenguaje:** Python ≥ 3.10
 
+<p align="center">
+  <a href="https://huggingface.co/spaces/DeepRat/Med-X_25.10.8" target="_blank">
+    <img src="https://github.com/DeepRatAI/Med-X-KimiK2-RAG/blob/main/med-x.gif?raw=true" 
+         alt="MedeX Live Demo — Hugging Face Space" width="90%">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click en la imagen para probar la demo en Hugging Face Spaces.</em>
+</p>
+
+
 ---
 
 - [🧭 Roadmap de Desarrollo](docs/ROADMAP.md)
